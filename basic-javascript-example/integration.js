@@ -1,5 +1,5 @@
 // Define the url to the editor
-const editorLink = "https://link/to/editor";
+const editorLink = "https://storageeditor2.blob.core.windows.net/editor/0.3.0-OKR-3/web";
 
 // Initialise SDK
 const SDK = new window.ChiliEditorSDK.SDK({
@@ -41,6 +41,7 @@ fetchDocumentAndPassIt();
 
 // Tool selection and change
 const useSelectTool = () => {
+  console.log("jsldkjflkasjdflk");
   SDK.tool.setSelectTool();
 };
 
