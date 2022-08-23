@@ -11,7 +11,7 @@ const Home = () => {
     <div id="NOTCONTAINER">
       <Head>
         <title>CHILI Integration Test</title>
-        <meta name="description" content="Integreation Test" />
+        <meta name="description" content="Integration Test" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
